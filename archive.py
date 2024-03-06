@@ -61,7 +61,7 @@ for section in sections:
 
         filename = unquote(os.path.basename(urlparse(url).path))
 
-        out_url = f"{args.repo_base}/{quote(game_name)}/{quote(filename)}"
+        out_url = f"{args.repo_base}/{args.file_dir}/{quote(game_name)}/{quote(filename)}"
 
         if skip_dl:
             replacements.append((url, out_url))
