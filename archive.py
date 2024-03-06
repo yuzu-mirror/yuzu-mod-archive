@@ -35,12 +35,14 @@ with open(args.page, "r") as file:
 
 replacements: list[tuple[str, str]] = []
 
+def filter_name(s: str):
+    return "".join([x for x in s if (x.isalnum() or x.isspace()) and (x != "\r" and x != "\n")])
+
 for section in sections:
     game_name: str = section[0]
     table = section[1]
 
-    folder_name = "".join([x for x in game_name if x.isalnum() or x.isspace()])
-
+    folder_name = filter_name(game_name)
     folder = os.path.join(args.file_dir, folder_name)
 
     skip_dl = args.no_dl
@@ -61,7 +63,7 @@ for section in sections:
 
         filename = unquote(os.path.basename(urlparse(url).path))
 
-        out_url = f"{args.repo_base}/{args.file_dir}/{quote(game_name)}/{quote(filename)}"
+        out_url = f"{args.repo_base}/{args.file_dir}/{quote(folder_name)}/{quote(filename)}"
 
         if skip_dl:
             replacements.append((url, out_url))

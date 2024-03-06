@@ -9,37 +9,37 @@ If you're looking for an automated process to install these mods, you can try th
 ### Animal Crossing: New Horizons
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [32:9 Super Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Animal%20Crossing%3A%20New%20Horizons/32.9%20Super%20Ultrawide.zip) | Makes the game render with a Hor+ 32:9 aspect ratio for Super Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `2.0.5` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
-| [21:9 Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Animal%20Crossing%3A%20New%20Horizons/21.9%20Ultrawide.zip) | Makes the game render with a Hor+ 21:9 aspect ratio for Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. Now updated for the latest patch. | `2.0.5` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
-| [16:10 Aspect Ratio](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Animal%20Crossing%3A%20New%20Horizons/16.10%20Aspect%20Ratio.zip) | Makes the game render with a 16:10 aspect ratio. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `2.0.5` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
+| [32:9 Super Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Animal%20Crossing%20New%20Horizons/32.9%20Super%20Ultrawide.zip) | Makes the game render with a Hor+ 32:9 aspect ratio for Super Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `2.0.5` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
+| [21:9 Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Animal%20Crossing%20New%20Horizons/21.9%20Ultrawide.zip) | Makes the game render with a Hor+ 21:9 aspect ratio for Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. Now updated for the latest patch. | `2.0.5` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
+| [16:10 Aspect Ratio](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Animal%20Crossing%20New%20Horizons/16.10%20Aspect%20Ratio.zip) | Makes the game render with a 16:10 aspect ratio. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `2.0.5` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
 
 # 
 
 ### Captain Toad: Treasure Tracker
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [32:9 Super Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%3A%20Treasure%20Tracker/32.9%20Super%20Ultrawide.zip) | Makes the game render with a Hor+ 32:9 aspect ratio for Super Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.3.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods)
-| [21:9 Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%3A%20Treasure%20Tracker/21.9%20Ultrawide.zip) | Makes the game render with a Hor+ 21:9 aspect ratio for Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.3.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods)
-| [4:3 Aspect Ratio](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%3A%20Treasure%20Tracker/4.3%20Aspect%20Ratio.zip) | Makes the game render with a 4:3 aspect ratio for CRT displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.3.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods)
-| [Disable DOF](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%3A%20Treasure%20Tracker/Disable_DOF.zip) | Disabled in-game Depth of field | `1.0.0` `1.3.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
-| [Disable Screen Cursor Icon](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%3A%20Treasure%20Tracker/Disable_On_Screen_Cursor.zip) | Disabled the on screen interaction cursor icon | `1.0.0` `1.3.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
-| [Force Max Resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%3A%20Treasure%20Tracker/Force_Max_Resolution.zip) | Forces the game to always run at 1920x1080 | `1.0.0` `1.3.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
+| [32:9 Super Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%20Treasure%20Tracker/32.9%20Super%20Ultrawide.zip) | Makes the game render with a Hor+ 32:9 aspect ratio for Super Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.3.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods)
+| [21:9 Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%20Treasure%20Tracker/21.9%20Ultrawide.zip) | Makes the game render with a Hor+ 21:9 aspect ratio for Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.3.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods)
+| [4:3 Aspect Ratio](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%20Treasure%20Tracker/4.3%20Aspect%20Ratio.zip) | Makes the game render with a 4:3 aspect ratio for CRT displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.3.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods)
+| [Disable DOF](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%20Treasure%20Tracker/Disable_DOF.zip) | Disabled in-game Depth of field | `1.0.0` `1.3.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
+| [Disable Screen Cursor Icon](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%20Treasure%20Tracker/Disable_On_Screen_Cursor.zip) | Disabled the on screen interaction cursor icon | `1.0.0` `1.3.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
+| [Force Max Resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Captain%20Toad%20Treasure%20Tracker/Force_Max_Resolution.zip) | Forces the game to always run at 1920x1080 | `1.0.0` `1.3.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
 
 #
 
 ### Crash Bandicoot N. Sane Trilogy
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Crash%20Bandicoot%20N.%20Sane%20Trilogy/60FPS.zip) | Makes the game run full speed at 60 FPS | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [1920x1080](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Crash%20Bandicoot%20N.%20Sane%20Trilogy/1920x1080.zip) | Makes the Game run at 1080p Resolution | `1.0.0` | zakaria
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Crash%20Bandicoot%20N%20Sane%20Trilogy/60FPS.zip) | Makes the game run full speed at 60 FPS | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [1920x1080](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Crash%20Bandicoot%20N%20Sane%20Trilogy/1920x1080.zip) | Makes the Game run at 1080p Resolution | `1.0.0` | zakaria
 
 #
 
 ### Crash Team Racing: Nitro-Fueled
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Crash%20Team%20Racing%3A%20Nitro-Fueled/CTRNF_60fps.zip) | Makes the game run full speed at 60 FPS | `1.0.7` `1.0.9` `1.0.10` `1.0.11` `1.0.12` `1.0.13` `1.0.14` `1.0.15` | Kirby567fan, masagrator, Mauste
-| [Unlock Everything](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Crash%20Team%20Racing%3A%20Nitro-Fueled/CTRNF_UnlockEverything.zip) | Unlocks all unlockables and Pit Stop items | `1.0.15` | DaBlackDeath, iCeParadox64
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Crash%20Team%20Racing%20NitroFueled/CTRNF_60fps.zip) | Makes the game run full speed at 60 FPS | `1.0.7` `1.0.9` `1.0.10` `1.0.11` `1.0.12` `1.0.13` `1.0.14` `1.0.15` | Kirby567fan, masagrator, Mauste
+| [Unlock Everything](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Crash%20Team%20Racing%20NitroFueled/CTRNF_UnlockEverything.zip) | Unlocks all unlockables and Pit Stop items | `1.0.15` | DaBlackDeath, iCeParadox64
 
 #
 
@@ -56,7 +56,7 @@ If you're looking for an automated process to install these mods, you can try th
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
 |[60 FPS](https://cdn.discordapp.com/attachments/495758692495523854/762098744396218398/60_FPS.zip) | Makes the game run full speed at 60 FPS | `1.0.2` `1.1.0` `1.1.1` `1.2.0` | masagrator |
-| [Outline Removal](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Fire%20Emblem%3A%20Three%20Houses/Outline_Removal.zip) | Remove outline of character model | `1.0.2` `1.1.0` `1.1.1` `1.2.0` | MegaMagikarp
+| [Outline Removal](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Fire%20Emblem%20Three%20Houses/Outline_Removal.zip) | Remove outline of character model | `1.0.2` `1.1.0` `1.1.1` `1.2.0` | MegaMagikarp
 
 
 #
@@ -64,14 +64,14 @@ If you're looking for an automated process to install these mods, you can try th
 ### Good Job!
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Good%20Job%21/SPOILER_GoodJob60FPS.zip) | Makes the game run full speed at 60 FPS | `1.0.0` | Kirby567fan
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Good%20Job/SPOILER_GoodJob60FPS.zip) | Makes the game run full speed at 60 FPS | `1.0.0` | Kirby567fan
 
 #
 
 ### Kirby: Star Allies
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%3A%20Star%20Allies/60FPS.zip) | Makes the game run full speed at 60 FPS | `4.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%20Star%20Allies/60FPS.zip) | Makes the game run full speed at 60 FPS | `4.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
 
 #
 
@@ -93,12 +93,12 @@ If you're looking for an automated process to install these mods, you can try th
 ### Luigi's Mansion 3
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [32:9 Super Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigi%27s%20Mansion%203/32.9%20Super%20Ultrawide.zip) | Makes the game render with a Hor+ 32:9 aspect ratio for Super Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.4.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [21:9 Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigi%27s%20Mansion%203/21.9.rar) | Makes the game render with a Hor+ 21:9 aspect ratio for Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [120 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigi%27s%20Mansion%203/120FPS%20-%201.4.0.rar) | Unlocks framerate to 120 FPS. | `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigi%27s%20Mansion%203/60_FPS.zip) | Unlocks framerate to 60 FPS. | `1.0.0` `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Disable Dynamic Resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigi%27s%20Mansion%203/Disable-Dynamic-Resolution.zip) | Disables the game's automatic adjustment of resolution. Required for playing this title | `1.0.0` `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Disable Lens Flare](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigi%27s%20Mansion%203/Disable-Lens-Flare.zip) | Disables the game's  Flashlight Lens Flare. A workaround for it flickering on the Vulkan API | `1.0.0` `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [32:9 Super Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigis%20Mansion%203/32.9%20Super%20Ultrawide.zip) | Makes the game render with a Hor+ 32:9 aspect ratio for Super Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.4.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [21:9 Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigis%20Mansion%203/21.9.rar) | Makes the game render with a Hor+ 21:9 aspect ratio for Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [120 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigis%20Mansion%203/120FPS%20-%201.4.0.rar) | Unlocks framerate to 120 FPS. | `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigis%20Mansion%203/60_FPS.zip) | Unlocks framerate to 60 FPS. | `1.0.0` `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Disable Dynamic Resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigis%20Mansion%203/Disable-Dynamic-Resolution.zip) | Disables the game's automatic adjustment of resolution. Required for playing this title | `1.0.0` `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Disable Lens Flare](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Luigis%20Mansion%203/Disable-Lens-Flare.zip) | Disables the game's  Flashlight Lens Flare. A workaround for it flickering on the Vulkan API | `1.0.0` `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
 
 #
 
@@ -115,7 +115,7 @@ If you're looking for an automated process to install these mods, you can try th
 ### Mario Strikers™: Battle League
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [No Intro/Credits bypass mod](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Mario%20Strikers%E2%84%A2%3A%20Battle%20League/cutscene%20skip.7z) | Bypasses the issue with game intro and credits video(s) by replacing it with a 'dummy' 1 second video file. | `1.0.0` | piplup55
+| [No Intro/Credits bypass mod](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Mario%20Strikers%20Battle%20League/cutscene%20skip.7z) | Bypasses the issue with game intro and credits video(s) by replacing it with a 'dummy' 1 second video file. | `1.0.0` | piplup55
 
 #
 #
@@ -172,7 +172,7 @@ If you're looking for an automated process to install these mods, you can try th
 ### Paper Mario: The Origami King
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Paper%20Mario%3A%20The%20Origami%20King/60FPS.zip) | Makes the game run full speed at 60 FPS. Please note that there are currently timing issues in mini-games/battles. The game *may* also soft lock when using this mod. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Paper%20Mario%20The%20Origami%20King/60FPS.zip) | Makes the game run full speed at 60 FPS. Please note that there are currently timing issues in mini-games/battles. The game *may* also soft lock when using this mod. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
 
 #
 ### Pokemon Brilliant Diamond
@@ -192,14 +192,14 @@ If you're looking for an automated process to install these mods, you can try th
 ### Pokemon, Let's Go Eevee!
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Pokemon%2C%20Let%27s%20Go%20Eevee%21/60_FPS_Eevee.zip) | Runs the game at a 60 FPS cap. Will be double speed at 60 FPS | `1.0.0` `1.0.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), DuIslingr
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Pokemon%20Lets%20Go%20Eevee/60_FPS_Eevee.zip) | Runs the game at a 60 FPS cap. Will be double speed at 60 FPS | `1.0.0` `1.0.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), DuIslingr
 
 #
 
 ### Pokemon, Let's Go Pikachu! 
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Pokemon%2C%20Let%27s%20Go%20Pikachu%21%20/60_FPS_Pikachu.zip) | Runs the game at a 60 FPS cap. Will be double speed at 60 FPS | `1.0.0` `1.0.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), DuIslingr
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Pokemon%20Lets%20Go%20Pikachu%20/60_FPS_Pikachu.zip) | Runs the game at a 60 FPS cap. Will be double speed at 60 FPS | `1.0.0` `1.0.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), DuIslingr
 
 #
 
@@ -208,7 +208,7 @@ If you're looking for an automated process to install these mods, you can try th
 | --- | ----------- | ---------- | ------ |
 | [Force Max Resolution](https://cdn.discordapp.com/attachments/356187763139280896/849209813656928286/force-max-resolution-sword.zip) | Forces the game to always run at 1920x1080. | `1.0.0` `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2`| [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan, DuIslingr
 | [Remove Outlines](https://github.com/theboy181/switch-ptchtxt-mods/raw/main/Pok%C3%A9mon%20Sword/%5B0100ABF008968000%5D/1.3.2/Remove%20Outlines.rar) | Removes character outlines from the game (Useful for resolution scaling) |`1.3.2`| [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Pokemon%20Sword%20%28exeFS%29/60-FPS-sword.zip) | Runs the game at a 60 FPS cap. Will be double speed at 60 FPS | `1.0.0` `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan, DuIslingr
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Pokemon%20Sword%20exeFS/60-FPS-sword.zip) | Runs the game at a 60 FPS cap. Will be double speed at 60 FPS | `1.0.0` `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan, DuIslingr
 | [Y Comm Wifi Fix](https://cdn.discordapp.com/attachments/356187763139280896/849209817809944596/Pokemon-Sword-Wifi-Fix.zip) | Stops an error message from popping up when you press the Y Comm button | `1.0.0` `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2`| [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), DuIslingr, Claude von Riegan
 
 #
@@ -264,18 +264,18 @@ If you're looking for an automated process to install these mods, you can try th
 ### Super Mario 3D World + Bowser's Fury
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [32:9 Super Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/32.9%20Super%20Ultrawide.zip) | Makes the game render with a Hor+ 32:9 aspect ratio for Super Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.0.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [21:9 Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/UltraWide%20-%20v2.rar) | Makes the game render with a Hor+ 21:9 aspect ratio for Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [60 FPS Handheld Mode](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/60fps-Handheld%20-%20v9.rar) | Makes the game run at 60 FPS in handheld mode. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Big Head Mode](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/BigHead.rar) | Big Head Mode. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Disable Bloom](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/Disable-Bloom.rar) | Disables the bloom effect. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Disable Depth of Field](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/Disable-DOF.rar) | Disables DoF effect. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Disable Dynamic Resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/Disable-Dynamic-Resolution%20-v2.rar) | Disables dynamic resolution, greatly improving image quality | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Disable FXAA](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/Disable-FXAA-v2.rar) | Disables FXAA | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Enable Filters](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/Enable-Filters.rar) | Enable filters. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Force FXAA](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/Force-FXAA.rar) | Forces FXAA on. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Parkour](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/Parkour.rar) | Parkour mode. This changes the game physics making wall climbing easier. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Max Quality Mode](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%2B%20Bowser%27s%20Fury/Quality-Mode.rar) | Makes the game render at enhanced quality settings, may greatly affect performance | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [32:9 Super Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/32.9%20Super%20Ultrawide.zip) | Makes the game render with a Hor+ 32:9 aspect ratio for Super Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.0.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [21:9 Ultrawide](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/UltraWide%20-%20v2.rar) | Makes the game render with a Hor+ 21:9 aspect ratio for Ultrawide displays. Enable 'Stretch to Window' in Yuzu's graphics settings for this to work properly. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [60 FPS Handheld Mode](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/60fps-Handheld%20-%20v9.rar) | Makes the game run at 60 FPS in handheld mode. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Big Head Mode](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/BigHead.rar) | Big Head Mode. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Disable Bloom](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/Disable-Bloom.rar) | Disables the bloom effect. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Disable Depth of Field](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/Disable-DOF.rar) | Disables DoF effect. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Disable Dynamic Resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/Disable-Dynamic-Resolution%20-v2.rar) | Disables dynamic resolution, greatly improving image quality | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Disable FXAA](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/Disable-FXAA-v2.rar) | Disables FXAA | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Enable Filters](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/Enable-Filters.rar) | Enable filters. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Force FXAA](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/Force-FXAA.rar) | Forces FXAA on. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Parkour](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/Parkour.rar) | Parkour mode. This changes the game physics making wall climbing easier. | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Max Quality Mode](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Mario%203D%20World%20%20Bowsers%20Fury/Quality-Mode.rar) | Makes the game render at enhanced quality settings, may greatly affect performance | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
 
 #
 
@@ -299,15 +299,15 @@ If you're looking for an automated process to install these mods, you can try th
 ### Super Smash Bros. Ultimate
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [30 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Smash%20Bros.%20Ultimate/30_FPS.zip) | Makes the game full speed at 30 FPS | `1.0.0` `3.1.0` `7.0.0` `8.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
-| [Boot Straight to Menu](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Smash%20Bros.%20Ultimate/Boot_Straight_to_menu.zip) | Makes the game boot straight into the main menu. | `1.0.0` `3.1.0` `7.0.0` `8.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
+| [30 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Smash%20Bros%20Ultimate/30_FPS.zip) | Makes the game full speed at 30 FPS | `1.0.0` `3.1.0` `7.0.0` `8.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
+| [Boot Straight to Menu](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Smash%20Bros%20Ultimate/Boot_Straight_to_menu.zip) | Makes the game boot straight into the main menu. | `1.0.0` `3.1.0` `7.0.0` `8.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan
 
 #
 
 ### The Legend of Zelda: Breath of the Wild
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [Clean UI](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%3A%20Breath%20of%20the%20Wild/34141) | Removes hearts, stamina, arrow reticle, ZL targeting arrow, and other UI elements. | `Any` | Eloeri, Leoetlino
+| [Clean UI](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild/34141) | Removes hearts, stamina, arrow reticle, ZL targeting arrow, and other UI elements. | `Any` | Eloeri, Leoetlino
 [Disable dynamic Resolution](https://cdn.discordapp.com/attachments/356187763139280896/798516683936759848/Disable_Dynamic_Resolution.zip) | Runs the game at 1080p Resolution | `1.0.0` `1.6.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
 [60 FPS](https://cdn.discordapp.com/attachments/356187763139280896/798516557982072852/60FPS.zip) | Runs the game at Static 60 FPS (If lower than 60, Gameplay is slow) | `1.6.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
 
@@ -316,34 +316,34 @@ If you're looking for an automated process to install these mods, you can try th
 ### The Legend of Zelda: Link's Awakening
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [Blur Removal](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%3A%20Link%27s%20Awakening/Blur_Removal.zip) | Removes the tilt-shift blur. | `1.0.0` `1.0.1` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [Infinite Cheats](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%3A%20Link%27s%20Awakening/zla-cheats.zip) | Allows for Infinite Ammo, Bombs, Magic Powder, and Rupees. | `1.0.0` | CJBoK
-| [Clean UI](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%3A%20Link%27s%20Awakening/34940) | Removes hearts, weapons icon, and interaction prompts. | `Any` | Eloeri
-| [Stable 60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%3A%20Link%27s%20Awakening/Stable-60fps-v2.zip) | Disables the Dynamic switching from 60 to 30 FPS | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Blur Removal](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Links%20Awakening/Blur_Removal.zip) | Removes the tilt-shift blur. | `1.0.0` `1.0.1` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [Infinite Cheats](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Links%20Awakening/zla-cheats.zip) | Allows for Infinite Ammo, Bombs, Magic Powder, and Rupees. | `1.0.0` | CJBoK
+| [Clean UI](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Links%20Awakening/34940) | Removes hearts, weapons icon, and interaction prompts. | `Any` | Eloeri
+| [Stable 60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Links%20Awakening/Stable-60fps-v2.zip) | Disables the Dynamic switching from 60 to 30 FPS | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
 
 #
 
 ### The Legend of Zelda: Skyward Sword HD
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [30 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%3A%20Skyward%20Sword%20HD/30fps.zip) | Makes the game fullspeed at 30 FPS. | `1.0.0` `1.0.1` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Nimbo
-| [1440p/2K Resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%3A%20Skyward%20Sword%20HD/2K.rar) | Allows the game to render at 1440p/2K Resolution (Greatly affects performance)| `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
-| [2160p/4K resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%3A%20Skyward%20Sword%20HD/4K.rar) | Allows the game to render at 2160p/4K Resolution (Greatly affects performance). | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [30 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD/30fps.zip) | Makes the game fullspeed at 30 FPS. | `1.0.0` `1.0.1` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Nimbo
+| [1440p/2K Resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD/2K.rar) | Allows the game to render at 1440p/2K Resolution (Greatly affects performance)| `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
+| [2160p/4K resolution](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD/4K.rar) | Allows the game to render at 2160p/4K Resolution (Greatly affects performance). | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods)
 
 #
 
 ### Xenoblade Chronicles: Definitive Edition
 | Mod | Description | Applies to | Credit |
 | --- | ----------- | ---------- | ------ |
-| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%3A%20Definitive%20Edition/60_FPS.zip) | Makes the game run full speed at 60 FPS. Please note that the UI will only be full speed at 60fps. | `1.0.0` `1.1.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Kirby567fan, DuIslingr
-| [More Affinity Coins (x4)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%3A%20Definitive%20Edition/More%20Affinity%20Coins%20%28x4%29.zip) | Multiply the Affinity Coins gained when level up or kill a unique monster for the first time. | `1.1.2` | lasyan3
-| [More Affinity Coins (x8)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%3A%20Definitive%20Edition/More%20Affinity%20Coins%20%28x8%29.zip) | Multiply the Affinity Coins gained when level up or kill a unique monster for the first time. | `1.1.2` | lasyan3
-| [More Arts Points (x2)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%3A%20Definitive%20Edition/More%20Arts%20Points%20%28x2%29.zip) | Multiply the Arts points gained from battles. **Please note:** the points showed when a monster is killed don't change, but the values are correctly increased. | `1.1.2` | lasyan3
-| [More Arts Points (x4)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%3A%20Definitive%20Edition/More%20Arts%20Points%20%28x4%29.zip) | Multiply the Arts points gained from battles. (same note) | `1.1.2` | lasyan3
-| [More Skills Points (x2)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%3A%20Definitive%20Edition/More%20Skills%20Points%20%28x2%29.zip) | Multiply the Skills points gained from battles. **Please note:** the points showed when a monster is killed don't change, but the values are correctly increased. | `1.1.2` | lasyan3
-| [More Skills Points (x4)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%3A%20Definitive%20Edition/More%20Skills%20Points%20%28x4%29.zip) | Multiply the Skills points gained from battles. (same note) | `1.1.2` | lasyan3
-| [Speed increased (x1.25)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%3A%20Definitive%20Edition/Speed%20increased%20%28x1.25%29.zip) | Increase the speed of your main character. **Please note:** this also impacts enemies speed but so far it doesn't generates any trouble during playthrough. | `1.1.2` | lasyan3
-| [Speed increased (x1.5)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%3A%20Definitive%20Edition/Speed%20increased%20%28x1.5%29.zip) | Increase the speed of your main character. (same note) | `1.1.2` | lasyan3
+| [60 FPS](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/60_FPS.zip) | Makes the game run full speed at 60 FPS. Please note that the UI will only be full speed at 60fps. | `1.0.0` `1.1.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Kirby567fan, DuIslingr
+| [More Affinity Coins (x4)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Affinity%20Coins%20%28x4%29.zip) | Multiply the Affinity Coins gained when level up or kill a unique monster for the first time. | `1.1.2` | lasyan3
+| [More Affinity Coins (x8)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Affinity%20Coins%20%28x8%29.zip) | Multiply the Affinity Coins gained when level up or kill a unique monster for the first time. | `1.1.2` | lasyan3
+| [More Arts Points (x2)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Arts%20Points%20%28x2%29.zip) | Multiply the Arts points gained from battles. **Please note:** the points showed when a monster is killed don't change, but the values are correctly increased. | `1.1.2` | lasyan3
+| [More Arts Points (x4)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Arts%20Points%20%28x4%29.zip) | Multiply the Arts points gained from battles. (same note) | `1.1.2` | lasyan3
+| [More Skills Points (x2)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Skills%20Points%20%28x2%29.zip) | Multiply the Skills points gained from battles. **Please note:** the points showed when a monster is killed don't change, but the values are correctly increased. | `1.1.2` | lasyan3
+| [More Skills Points (x4)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Skills%20Points%20%28x4%29.zip) | Multiply the Skills points gained from battles. (same note) | `1.1.2` | lasyan3
+| [Speed increased (x1.25)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/Speed%20increased%20%28x1.25%29.zip) | Increase the speed of your main character. **Please note:** this also impacts enemies speed but so far it doesn't generates any trouble during playthrough. | `1.1.2` | lasyan3
+| [Speed increased (x1.5)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/Speed%20increased%20%28x1.5%29.zip) | Increase the speed of your main character. (same note) | `1.1.2` | lasyan3
 
 ### Xenoblade Chronicles 3
 | Mod | Description | Applies to | Credit |
